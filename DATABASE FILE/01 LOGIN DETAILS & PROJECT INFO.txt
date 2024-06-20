@@ -1,0 +1,19 @@
+**Database Name: rposystem**
+
+**Developed by Mohamed Insath**
+
+**Recommended PHP Version 7.4**
+
+
+**Admin Login Details**
+
+Email	: insath@gmail.com
+Password: insath
+
+**Cashier Login Details**
+
+Email	: ins@gmail.com
+Password: insath
+
+
+
